@@ -77,7 +77,7 @@
 	</action>
 <autorotate enabled="true"
             waittime="1.5"
-            speed="20.0"
+            speed="10.0"
             />
 
 	
